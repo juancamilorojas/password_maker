@@ -32,6 +32,7 @@ def generate_password():
         list_password.extend(include[aleatorio])
 
     password=''.join(list_password)
-
+    print("contraseña generada")
     return password
 #jejejej mi colaboración
+
