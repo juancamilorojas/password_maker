@@ -34,3 +34,4 @@ def generate_password():
     password=''.join(list_password)
 
     return password
+#jejejej mi colaboración
